@@ -9,6 +9,14 @@
 
 ---
 
+<p align="center">
+  <img src="./screenshots/login.png" width="300"/>
+  <img src="./screenshots/dashboard.png" width="300"/>
+  <img src="./screenshots/panel.png" width="300"/>
+</p>
+
+---
+
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
