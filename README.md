@@ -106,6 +106,5 @@ User Login Event
 ---
 
 <div align="center">
-  <p>Built with ❤️ using React, Node.js, and Claude API</p>
-  <p>⭐ Star this repo if you found it helpful!</p>
+  <p>Built using React, Node.js, and Claude API</p>
 </div>
